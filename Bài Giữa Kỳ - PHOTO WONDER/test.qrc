@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>ams4.png</file>
+    <file>ams2.png</file>
+    <file>app.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>ams3.png</file>
+    <file>ams1.png</file>
+  </qresource>
+</RCC>
